@@ -1,0 +1,1 @@
+Hello! It's interesting to see what you missed when you start learning about git from scratch. :)
